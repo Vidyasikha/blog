@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Vidyashika',
+  title: 'Vidyasikha',
   // tagline: 'Where knowledge meets wisdom',
   favicon: 'img/favicon.ico',
 
@@ -17,7 +17,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Vidyashika', // Usually your GitHub org/user name.
+  organizationName: 'Vidyasikha', // Usually your GitHub org/user name.
   projectName: 'blog', // Usually your repo name.
   trailingSlash: false,
 
@@ -38,7 +38,7 @@ const config: Config = {
       {
         docs: false,
         blog: {
-          blogTitle: 'Vidyashika blog',
+          blogTitle: 'Vidyasikha blog',
           postsPerPage: 'ALL',
           blogSidebarCount: "ALL",
           blogSidebarTitle: 'All posts',
@@ -68,7 +68,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Vidyashika',
+      title: 'Vidyasikha',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
